@@ -8,12 +8,9 @@ summary: "About this blog"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+The Financial Engineering Lab at Kyung Hee University focuses on various applications of mathematics, programming, and engineering in financial markets. While the principle interest has been optimization methods for portfolio management, we continue to expand our research with our expertise in mathematical modeling and computational analysis.
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+
+If you would like to know more about our laboratory, [please click here](http://felab.khu.ac.kr).
