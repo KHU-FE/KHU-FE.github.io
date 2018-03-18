@@ -5,7 +5,7 @@ crawlertitle: "How to use Jupyter notebook."
 summary: "경희대학교 금융공학 연구실 Jupyter notebook tutorial을 위해 작성한 markdown 입니다."
 date:   2018-03-19 02:28:00 +0700
 categories: posts
-tags: 'Jupyter notebook'
+tags: 'Jupyter-notebook'
 author: KHU-FE
 ---
 # 경희대학교 금융공학 연구실 Jupyter notebook tutorial
