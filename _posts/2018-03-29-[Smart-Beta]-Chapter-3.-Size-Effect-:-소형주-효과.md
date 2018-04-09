@@ -186,9 +186,6 @@ ax
 
 
 
-    <matplotlib.axes._subplots.AxesSubplot at 0x113d4f6a0>
-
-
 
 
 [![png]({{ site.images | relative_url }}/output_8_1.png)]({{ site.images | relative_url }}/output_8_1.png)
@@ -271,8 +268,6 @@ ax1
 
 
 
-
-    <matplotlib.axes._subplots.AxesSubplot at 0x10fb87cf8>
 
 
 
@@ -469,8 +464,6 @@ ax2
 
 
 
-    <matplotlib.axes._subplots.AxesSubplot at 0x106a3a9b0>
-
 
 
 [![png]({{ site.images | relative_url }}/output_26_1.png)]({{ site.images | relative_url }}/output_26_1.png)
@@ -514,8 +507,6 @@ ax4
 
 
 
-
-    <matplotlib.axes._subplots.AxesSubplot at 0x113cfe320>
 
 
 
@@ -695,9 +686,6 @@ ax2
 
 
 
-    <matplotlib.axes._subplots.AxesSubplot at 0x10962c048>
-
-
 
 [![png]({{ site.images | relative_url }}/output_13_1.png)]({{ site.images | relative_url }}/output_13_1.png)
 
@@ -834,9 +822,6 @@ ax
 
 
 
-    <matplotlib.axes._subplots.AxesSubplot at 0x1114a54e0>
-
-
 
 [![png]({{ site.images | relative_url }}/output_10_1.png)]({{ site.images | relative_url }}/output_10_1.png)
 
@@ -917,10 +902,6 @@ ax1.set_title('Average equal Weighted')
 ax1
 ```
 
-
-
-
-    <matplotlib.axes._subplots.AxesSubplot at 0x112f02198>
 
 
 
