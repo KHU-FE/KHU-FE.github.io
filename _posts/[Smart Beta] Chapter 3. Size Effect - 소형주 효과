@@ -1,3 +1,16 @@
+---
+bg: "tools.jpg"
+layout: post
+title:  "[Smart Beta] Chapter 3. Size Effect - 소형주 효과"
+crawlertitle: "[Smart Beta] Size Effect"
+summary: "소형주 효과와 Fama-French의 3-Factor model"
+date:   2018-03-29 20:09:47 +0700
+categories: posts
+tags: ['Smart-Beta']
+author: KHU-FE
+---
+
+
 
 # 소형주 효과(Size Effect)
 
@@ -181,7 +194,7 @@ ax
 
 
 
-![png](output_8_1.png)
+[![png]({{ site.images | relative_url }}/output_8_1.png)]({{ site.images | relative_url }}/output_8_1.png)
 
 
 1990.7 부터 2018.1 기간동안에 대하여 각 지역별 SMB 팩터 검증 결과 Banz의 주장과 달리 소형주 효과의 존재 여부에 대해 의문을 갖게한다.
@@ -267,7 +280,7 @@ ax1
 
 
 
-![png](output_12_1.png)
+[![png]({{ site.images | relative_url }}/output_12_1.png)]({{ site.images | relative_url }}/output_12_1.png)
 
 
 # 소형 RMW - 대형 RMW 누적 수익률(1990-2018)
@@ -463,8 +476,8 @@ ax2
 
 
 
+[![png]({{ site.images | relative_url }}/output_26_1.png)]({{ site.images | relative_url }}/output_26_1.png)
 
-![png](output_26_1.png)
 
 
 ### Global vs US
@@ -509,8 +522,8 @@ ax4
 
 
 
+[![png]({{ site.images | relative_url }}/output_29_1.png)]({{ site.images | relative_url }}/output_29_1.png)
 
-![png](output_29_1.png)
 
 
 ### 그래프로 확인하기2
@@ -549,8 +562,8 @@ plt.show()
 
 ```
 
+[![png]({{ site.images | relative_url }}/output_32_1.png)]({{ site.images | relative_url }}/output_32_1.png)
 
-![png](output_32_0.png)
 
 ## B. 동일가중기준
 
@@ -689,8 +702,8 @@ ax2
 
 
 
+[![png]({{ site.images | relative_url }}/output_13_1.png)]({{ site.images | relative_url }}/output_13_1.png)
 
-![png](output_13_1.png)
 
 # 소형주 효과를 반영한 시가총액가중기준 소형 CMA - 대형 CMA 누적수익률
 
@@ -828,8 +841,8 @@ ax
 
 
 
+[![png]({{ site.images | relative_url }}/output_10_1.png)]({{ site.images | relative_url }}/output_10_1.png)
 
-![png](output_10_1.png)
 
 
 # 소형주 효과를 반영한 동일가중기준 소형 CMA - 대형 CMA 누적수익률
@@ -914,6 +927,6 @@ ax1
 
 
 
+[![png]({{ site.images | relative_url }}/output_17_1.png)]({{ site.images | relative_url }}/output_17_1.png)
 
-![png](output_17_1.png)
 
