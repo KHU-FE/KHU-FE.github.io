@@ -15,6 +15,7 @@ author: KHU-FE
 ## 시장베타의 탄생, 자산가격결정모형(CAPM)
 
 ### CAPM(Capital Assets Pricing Model, 자본자산 가격결정 모형) 
+
 $$R_i = R_f + B_i x [R_m-R_f]$$
 
  : 투자자들이 투자활동을 하여 시장 전체가 균형상태에 있을 때 주식 등 자본자산의 균형가격은 어떻게 결정되는 가에 관한 모형이라 할 수 있다. 협의로는 증권시장선(SML, Security Market Line)만을 의미하나, 광의로는 자본시장선(CML, Capital Market Line) 과 증권특성선(SCL, Security Characteristic Line)까지 포함한다.
