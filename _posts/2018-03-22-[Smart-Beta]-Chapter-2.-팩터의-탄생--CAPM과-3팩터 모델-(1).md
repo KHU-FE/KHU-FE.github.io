@@ -9,7 +9,7 @@ categories: posts
 tags: ['Smart-Beta']
 author: KHU-FE
 ---
-# 팩터의 탄생:CAPM과 3팩터 모델
+# 팩터의 탄생 : CAPM과 3팩터 모델
 
 
 ## 시장베타의 탄생, 자산가격결정모형(CAPM)
