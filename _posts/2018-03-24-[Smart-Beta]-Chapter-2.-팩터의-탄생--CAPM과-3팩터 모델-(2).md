@@ -23,7 +23,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-data1 = pd.read_excel('C:\\Users\\user\\Desktop\\FeLab\\2018\\스마트베타\\F-F_Research_Data_Factors_daily.xlsx',index_col=0)
+data1 = pd.read_excel('F-F_Research_Data_Factors_daily.xlsx',index_col=0)
 
 data1.index=pd.to_datetime(data1.index, format='%Y%m%d' )
 
