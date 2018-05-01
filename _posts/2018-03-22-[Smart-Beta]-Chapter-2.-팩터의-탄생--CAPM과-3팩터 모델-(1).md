@@ -1,5 +1,5 @@
 ---
-bg: "smart beta.jpg"
+bg: "smartbeta.jpg"
 layout: post
 title:  "[Smart Beta] Chapter 2. 팩터의 탄생 : CAPM과 3팩터 모델 (1)"
 crawlertitle: "[Smart Beta] CAPM & 3-Factor model"
