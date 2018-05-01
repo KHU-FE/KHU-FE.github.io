@@ -44,7 +44,7 @@ rc('font',family='Malgun Gothic')
 
 
 ```python
-data = pd.read_excel("D:\\제용\\금융공학 연구실\\18-1학기\\스마트베타\\데이터\\ch4_data.xlsx", sheetname='Sheet4', index_col=0)/100
+data = pd.read_excel("ch4_data.xlsx", sheetname='Sheet4', index_col=0)/100
 ```
 
 
@@ -71,16 +71,6 @@ data.tail()
       <th>LG상사</th>
       <th>LS</th>
       <th>...</th>
-      <th>현대차</th>
-      <th>현대해상</th>
-      <th>호텔신라</th>
-      <th>효성</th>
-      <th>삼성SDI</th>
-      <th>삼성전기</th>
-      <th>삼성전자</th>
-      <th>삼성중공업</th>
-      <th>삼성증권</th>
-      <th>삼성화재</th>
     </tr>
   </thead>
   <tbody>
@@ -97,16 +87,6 @@ data.tail()
       <td>-0.0878</td>
       <td>0.1801</td>
       <td>...</td>
-      <td>0.0076</td>
-      <td>0.1155</td>
-      <td>0.1376</td>
-      <td>-0.0504</td>
-      <td>0.0948</td>
-      <td>-0.0362</td>
-      <td>0.0526</td>
-      <td>-0.0261</td>
-      <td>-0.0728</td>
-      <td>0.0131</td>
     </tr>
     <tr>
       <th>2016-09-30</th>
@@ -121,16 +101,6 @@ data.tail()
       <td>0.0496</td>
       <td>-0.0747</td>
       <td>...</td>
-      <td>0.0188</td>
-      <td>0.0725</td>
-      <td>-0.1077</td>
-      <td>-0.0152</td>
-      <td>-0.1688</td>
-      <td>-0.0808</td>
-      <td>-0.0136</td>
-      <td>0.1153</td>
-      <td>-0.0128</td>
-      <td>0.0352</td>
     </tr>
     <tr>
       <th>2016-10-31</th>
@@ -145,16 +115,6 @@ data.tail()
       <td>-0.2020</td>
       <td>-0.0567</td>
       <td>...</td>
-      <td>0.0332</td>
-      <td>-0.0248</td>
-      <td>-0.0529</td>
-      <td>0.0308</td>
-      <td>-0.0177</td>
-      <td>-0.0368</td>
-      <td>0.0257</td>
-      <td>0.0405</td>
-      <td>-0.0015</td>
-      <td>0.0429</td>
     </tr>
     <tr>
       <th>2016-11-30</th>
@@ -169,16 +129,6 @@ data.tail()
       <td>0.0826</td>
       <td>0.1093</td>
       <td>...</td>
-      <td>-0.0500</td>
-      <td>0.0297</td>
-      <td>-0.1204</td>
-      <td>0.0373</td>
-      <td>-0.0212</td>
-      <td>-0.0170</td>
-      <td>0.0653</td>
-      <td>-0.1487</td>
-      <td>-0.0723</td>
-      <td>0.0051</td>
     </tr>
     <tr>
       <th>2016-12-31</th>
@@ -193,16 +143,6 @@ data.tail()
       <td>-0.0299</td>
       <td>-0.0263</td>
       <td>...</td>
-      <td>0.0977</td>
-      <td>-0.1346</td>
-      <td>-0.0446</td>
-      <td>0.0468</td>
-      <td>0.1809</td>
-      <td>0.0972</td>
-      <td>0.0321</td>
-      <td>0.1144</td>
-      <td>-0.0109</td>
-      <td>-0.0836</td>
     </tr>
   </tbody>
 </table>
