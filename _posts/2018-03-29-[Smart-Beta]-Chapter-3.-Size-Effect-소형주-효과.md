@@ -1,5 +1,5 @@
 ---
-bg: "tools.jpg"
+bg: "smart beta.jpg"
 layout: post
 title:  "[Smart Beta] Chapter 3. Size Effect - 소형주 효과"
 crawlertitle: "[Smart Beta] Size Effect"
