@@ -188,8 +188,8 @@ ax
 
 
 
-
 [![png]({{ site.images | relative_url }}/output_8_1.png)]({{ site.images | relative_url }}/output_8_1.png)
+
 
 
 1990.7 부터 2018.1 기간동안에 대하여 각 지역별 SMB 팩터 검증 결과 Banz의 주장과 달리 소형주 효과의 존재 여부에 대해 의문을 갖게한다.
