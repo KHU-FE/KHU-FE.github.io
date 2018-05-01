@@ -27,7 +27,7 @@ import pandas as pd
 from scipy import stats, polyval, polyfit
 from pylab import plot, title, show, legend
 
-data1 = pd.read_excel('C:\\Users\\이한송\\Desktop\\연구실\\data2.xlsx',index_row=0)
+data1 = pd.read_excel('data2.xlsx',index_row=0)
 x = data1['코스피']
 y = data1['삼성전자']
 ```
