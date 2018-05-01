@@ -9,6 +9,7 @@ categories: posts
 tags: ['Smart-Beta']
 author: KHU-FE
 ---
+# Low Risk Factor 저위험 팩터
 
 [SMART BETA] Low Risk Factor 저위험 팩터 (2)
 ====================
